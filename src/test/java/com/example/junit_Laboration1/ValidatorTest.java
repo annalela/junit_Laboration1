@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ValidatorTest {
 
+
     @Test
     @DisplayName("Korrekt telnr format")
     public void givenPhoneNumberIsCorrectFormat_thenReturnTrue() {
